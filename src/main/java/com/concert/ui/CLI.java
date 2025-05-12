@@ -1,10 +1,4 @@
-package com.concert.client.ui;
-
-import com.concert.client.ConcertClient;
-import com.concert.client.OrganizerClient;
-import com.concert.client.BoxOfficeClient;
-import com.concert.client.CustomerClient;
-import com.concert.client.CoordinatorClient;
+package com.concert.ui;
 
 import java.util.Scanner;
 

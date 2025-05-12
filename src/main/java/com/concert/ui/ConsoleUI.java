@@ -1,12 +1,5 @@
 package com.concert.ui;
 
-import com.concert.client.ConcertClient;
-import com.concert.client.OrganizerClient;
-import com.concert.client.BoxOfficeClient;
-import com.concert.client.CustomerClient;
-import com.concert.client.CoordinatorClient;
-
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
